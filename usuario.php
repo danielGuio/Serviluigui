@@ -69,8 +69,8 @@ $consutServ = "select tiposervicio, tipo_electro, marca, estadoservicio,  fechaP
                                 <td><?php echo $row['tipo_electro']; ?>
                                 </td>
                                 <td><?php echo $row['marca']; ?></td>
-                                <td><?php echo $row['observaciones']; ?></td>     
-                                <td><?php echo "<a href='solicitarServ.php?electrodomestico=$row[idelectrodomesticos]'>Solicitar</a>" ?></td>      
+                                <td><?php echo $row['observaciones']; ?></td>
+                                <td><?php echo "<a href='solicitarServ.php?electrodomestico=$row[idelectrodomesticos]'>Solicitar</a>" ?></td>
                             </tr>
                         <?php } ?>
                     </table>
@@ -129,7 +129,7 @@ $consutServ = "select tiposervicio, tipo_electro, marca, estadoservicio,  fechaP
                             <option>Otra</option>
                         </select>
                         <label for="observaciones">Observaciones</label>
-                        <textarea class="form-textarea" name="observaciones" placeholder="Escriba observaciones como: tamaño, capacidad, tipo de carga (frontal o superior), etc">  
+                        <textarea class="form-textarea" name="observaciones" placeholder="Escriba observaciones como: tamaño, capacidad, tipo de carga (frontal o superior), etc">
                         </textarea>
                         <input type="submit" name="registrarElectro" value="Registrar" class="btn-solicitar">
                     </form>
@@ -148,10 +148,12 @@ $consutServ = "select tiposervicio, tipo_electro, marca, estadoservicio,  fechaP
                     <p>
                         SolucionesParaSuHogar@gmail.com
                     </p>
+                    <p>
+                        otro p hecho en rama 2
+                    </p>
                 </div>
                 <div class="contenedor-redes-sociales">
                     <ul>
                         <li><a href="https://www.facebook.com/daniel.guiorojas" class="facebook"><i class="fab fa-facebook"></i></a></li>
                         <li><a href="https://www.youtube.com/channel/UCcys_M2e0R782dp-bedr8cA" class="youtube"><i class="fab fa-youtube"></i></a></li>
                         <li><a href="#titulo del index
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
