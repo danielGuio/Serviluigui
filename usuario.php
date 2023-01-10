@@ -148,9 +148,6 @@ $consutServ = "select tiposervicio, tipo_electro, marca, estadoservicio,  fechaP
                     <p>
                         SolucionesParaSuHogar@gmail.com
                     </p>
-                    <p>
-                        otro p hecho en rama 2
-                    </p>
                 </div>
                 <div class="contenedor-redes-sociales">
                     <ul>
