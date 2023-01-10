@@ -140,7 +140,7 @@ $consutServ = "select tiposervicio, tipo_electro, marca, estadoservicio,  fechaP
             <div class="container">
                 <div class="datos-Footer">
                     <p>
-                        Contactenos
+                        Contacteno
                     </p>
                     <p>
                         Telefono: 313-833-50-35
