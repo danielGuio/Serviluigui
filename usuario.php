@@ -141,6 +141,7 @@ $consutServ = "select tiposervicio, tipo_electro, marca, estadoservicio,  fechaP
                 <div class="datos-Footer">
                     <p>
                         Contactenos sss
+                        Contacteno
                     </p>
                     <p>
                         Telefono: 313-833-50-35
@@ -148,10 +149,10 @@ $consutServ = "select tiposervicio, tipo_electro, marca, estadoservicio,  fechaP
                     <p>
                         SolucionesParaSuHogar@gmail.com
                     </p>
-                    <p>
-                        otro p hecho en rama 2
-                    </p>
                 </div>
+
+
+                <p>parrafo creado en editbranch</p>
                 <div class="contenedor-redes-sociales">
                     <ul>
                         <li><a href="https://www.facebook.com/daniel.guiorojas" class="facebook"><i class="fab fa-facebook"></i></a></li>
