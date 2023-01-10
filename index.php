@@ -57,6 +57,7 @@
                     </div>
                     <div class="bloque-interno-izquierda">
                         <h2>¿Como Solicitar un servicio de mantenimiento o reparacion?</h2>
+			    <p>parrafo agregado</p>
                         <ul>
                             <li>
                                 Directamente al telefono 313-833-50-35
