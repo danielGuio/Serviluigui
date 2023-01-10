@@ -149,6 +149,9 @@ $consutServ = "select tiposervicio, tipo_electro, marca, estadoservicio,  fechaP
                         SolucionesParaSuHogar@gmail.com
                     </p>
                 </div>
+
+
+                <p>parrafo creado en editbranch</p>
                 <div class="contenedor-redes-sociales">
                     <ul>
                         <li><a href="https://www.facebook.com/daniel.guiorojas" class="facebook"><i class="fab fa-facebook"></i></a></li>
