@@ -17,7 +17,7 @@
                         <?php session_start();
                         if(isset($_SESSION["usuario"]) && $_SESSION["tipousu"]==1) {   ?>
                             <li><a href="usuario.php">Menu usuario</a></li>
-                         <?php } 
+                         <?php }
                          if(isset($_SESSION["usuario"]) && $_SESSION["tipousu"]==2) {
                                 ?>
                             <li><a href="administradorInicio.php">Menu usuario</a></li>
